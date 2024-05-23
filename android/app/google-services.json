@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1022545947782",
+    "project_id": "saklolo-76516",
+    "storage_bucket": "saklolo-76516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022545947782:android:9b08c829a0e1fe8e43b507",
+        "android_client_info": {
+          "package_name": "com.example.saklolo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022545947782-u6btpfg3mqdte27uj5lpuv1ejme808pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7SF6b0VEUQ5WTuQCSIMIbwNagnxyjII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022545947782-u6btpfg3mqdte27uj5lpuv1ejme808pd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022545947782-5an4bckt460nq0hcophddaqt532nudu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saklolo2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
